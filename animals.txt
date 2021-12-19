@@ -1,6 +1,3 @@
 cats
 dogs
 hamsters
-more animals 
-testing
-
