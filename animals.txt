@@ -1,3 +1,5 @@
 cats
 dogs
 hamsters
+lions
+tigers
